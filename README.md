@@ -16,4 +16,4 @@ This project involves designing a simple embedded system using a microcontroller
 
 output
 
-<!-- Failed to upload "Arduino_circuit_05_01 (1).png" -->
+
